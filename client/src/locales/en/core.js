@@ -48,7 +48,7 @@ export default {
       createBoard_title: 'Create Board',
       createLabel_title: 'Create Label',
       createNewOneOrSelectExistingOne: 'Create a new one or select<br />an existing one',
-      createProject_title: 'Create Project',
+      createProject_title: 'Create Project2',
       createTextFile_title: 'Create Text File',
       currentPassword: 'Current password',
       dangerZone_title: 'Danger Zone',
